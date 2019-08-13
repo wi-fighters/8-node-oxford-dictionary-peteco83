@@ -1,8 +1,8 @@
-## Instructions for students:
+ ## Instructions for students:
 
 ### OxFord Dictionary 
 
-Create an OxFord Dictionary API. The dictionary should give the definition of any given word. Make sure to use this API `[OxFord]`(https://developer.oxforddictionaries.com)
+Create an OxFord Dictionary API. The dictionary should give the definition of any given word. Make sure to use this API [OxFord](https://developer.oxforddictionaries.com)
 
 -  Be sure your project has an `index.js` file.
 - Create a Oxford Client (you can use [axios](https://github.com/axios/axios) as a fetch replacement)
@@ -22,4 +22,5 @@ Provided by: Oxford University Press
 ### Rules
 
 -   This is an individual assignment.
--   Deadline: 30 minutes.
+-   Deadline: 4 hours to 1 day.
+
