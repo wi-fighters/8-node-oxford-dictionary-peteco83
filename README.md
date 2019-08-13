@@ -1,13 +1,16 @@
- ## Instructions for students:
+## Instructions for students:
 
 ### OxFord Dictionary 
 
-Create an OxFord Dictionary API. The dictionary should give the definition of any given word. Make sure to use this API [OxFord](https://developer.oxforddictionaries.com)
+Create a program which uses the Oxford Dictionary API. The dictionary should give the definition of any given word. 
 
--  Be sure your project has an `index.js` file.
-- Create a Oxford Client (you can use [axios](https://github.com/axios/axios) as a fetch replacement)
+-  Make sure to use this API: [OxFord-Dictionary](https://developer.oxforddictionaries.com) and get your own API Key.
 
-    Example of the output:
+-  Your project should have an `index.js` file and any other files required.
+
+-  Documentation for using axios: [axios](https://github.com/axios/axios) 
+
+-  Example once your program is running properly:
 
  ```bash
 $ node index.js happy
@@ -18,6 +21,8 @@ $ node index.js happy
 
 Provided by: Oxford University Press
 ```
+
+
 
 ### Rules
 
