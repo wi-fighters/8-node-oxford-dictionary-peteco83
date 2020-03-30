@@ -1,0 +1,26 @@
+{
+  "name": "8-node-oxford-dictionary-peteco83",
+  "version": "1.0.0",
+  "description": "### OxFord Dictionary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "definition": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wi-fighters/8-node-oxford-dictionary-peteco83.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wi-fighters/8-node-oxford-dictionary-peteco83/issues"
+  },
+  "homepage": "https://github.com/wi-fighters/8-node-oxford-dictionary-peteco83#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "node-fetch": "^2.6.0"
+  }
+}
